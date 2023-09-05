@@ -42,10 +42,7 @@ export default function AddTransaction() {
               placeholder="Enter amount..."
             />
           </label>
-        </div>
-        <div className='button-container'>
-
-        </div>
+        </div>        
         <button type="submit" className="btn btn-income">
           Add an Income
         </button>
